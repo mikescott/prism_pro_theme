@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.github.sitharaj88.prism_pro_theme"
-version = "1.0.0"
+version = "1.0.1"
 
 repositories {
     mavenCentral()
