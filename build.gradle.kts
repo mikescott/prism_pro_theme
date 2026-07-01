@@ -33,7 +33,7 @@ tasks {
             </ul>
         """.trimIndent())
         sinceBuild.set("232")
-        untilBuild.set("253.*")
+        untilBuild.set(provider { null })
     }
 
     buildSearchableOptions {

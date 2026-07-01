@@ -37,6 +37,8 @@
 
     <depends>com.intellij.modules.platform</depends>
 
+    <idea-version since-build="232"/>
+
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="prism_pro_dark" path="/prism_pro_dark.theme.json"/>
         <themeProvider id="prism_pro_light" path="/prism_pro_light.theme.json"/>
